@@ -1,0 +1,17 @@
+ru\mail\yura\model\Address.class
+ru\mail\yura\dao\AddressDao.class
+ru\mail\yura\App.class
+ru\mail\yura\dao\UserDao.class
+ru\mail\yura\dao\GenericDao.class
+ru\mail\yura\dao\NewsDao.class
+ru\mail\yura\model\News.class
+ru\mail\yura\model\Goods.class
+ru\mail\yura\dao\impl\UserDaoImpl.class
+ru\mail\yura\model\User.class
+ru\mail\yura\dao\GoodsDao.class
+ru\mail\yura\dao\impl\GoodsDaoImpl.class
+ru\mail\yura\model\package-info.class
+ru\mail\yura\constant\StatusOfOrder.class
+ru\mail\yura\dao\impl\AddressDaoImpl.class
+ru\mail\yura\constant\Role.class
+ru\mail\yura\dao\impl\NewsDaoImpl.class
